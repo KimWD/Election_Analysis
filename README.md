@@ -47,3 +47,10 @@ Raymon Anthony Doane: 3.1% (11,606)
 **Winner:** Diana DeGette
 **Winning Vote Count:** 272,892
 **Winning Percentage:** 73.8%
+
+
+## Election-Audit Summary: 
+
+The current script was efficient and clean with producing the results requested.  I propose to the commission that it may be used in city and state elections.  The script can be modified to read city or state information with a different CSV document, and come back with the same dependable results. 
+
+The script can also be modified to give us the results from the districts within counties as well as track votes on proposals, and not just candidates.
