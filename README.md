@@ -12,6 +12,8 @@ The Colorado Board of Elections has requested an election audit of a recent loca
 
 ### Election-Audit Results: 
 
+![Elections_Results](Resources/Elections_Results.png)
+
 •	**How many votes were cast in this congressional election?**
 
   369,711 total votes.
